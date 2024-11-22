@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Tênis Esportivo Nike",
+        "description": "Descrição do produto 1",
+        "price": 299.99,
+        "image": "https://cdnv2.moovin.com.br/teffecalcados/imagens/produtos/det/tenis-nike-air-max-sc-cw4555002-a67b4e5ca0484c237280c518c5f8ebf9.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tênis Adidas Run",
+        "description": "Tênis ideal para corrida e atividades esportivas.",
+        "price": 349.99,
+        "image": "https://static.netshoes.com.br/produtos/tenis-adidas-endo-run-masculino/26/FB8-6053-026/FB8-6053-026_zoom1.jpg?ts=1706010463?ims=544x"
+    },
+    {
+        "id": 3,
+        "name": "Tênis Casual Puma",
+        "description": "Tênis casual da Puma, confortável para o dia a dia.",
+        "price": 199.99,
+        "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/370990/01/sv01/fnd/BRA/fmt/png"
+    }
+]

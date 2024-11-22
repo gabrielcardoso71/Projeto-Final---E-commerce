@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Tênis Esportivo Nike",
+        "description": "Descrição do produto 1",
+        "price": 299.99,
+        "image": "https://cdnv2.moovin.com.br/teffecalcados/imagens/produtos/det/tenis-nike-air-max-sc-cw4555002-a67b4e5ca0484c237280c518c5f8ebf9.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tênis Adidas Run",
+        "description": "Tênis ideal para corrida e atividades esportivas.",
+        "price": 349.99,
+        "image": "https://static.netshoes.com.br/produtos/tenis-adidas-endo-run-masculino/26/FB8-6053-026/FB8-6053-026_zoom1.jpg?ts=1706010463?ims=544x"
+    },
+    {
+        "id": 3,
+        "name": "Tênis Casual Puma",
+        "description": "Tênis casual da Puma, confortável para o dia a dia.",
+        "price": 199.99,
+        "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/370990/01/sv01/fnd/BRA/fmt/png"
+    },
+    {
+        "id": 4,
+        "name": "Tênis New Balance 574",
+        "description": "Tênis clássico e estiloso da New Balance.",
+        "price": 399.99,
+        "image": "https://newbalance.vtexassets.com/arquivos/ids/173291-1200-auto?v=637987898105570000&width=1200&height=auto&aspect=true"
+    },
+    {
+        "id": 5,
+        "name": "Tênis Esportivo Mizuno",
+        "description": "Tênis leve e com ótima absorção de impacto.",
+        "price": 299.99,
+        "image": "https://mizunobr.vtexassets.com/arquivos/ids/155668-800-auto?v=638078156671900000&width=800&height=auto&aspect=true"
+    },
+    {
+        "id": 6,
+        "name": "Tênis Vans Old Skool",
+        "description": "Tênis clássico da Vans, ideal para um estilo casual.",
+        "price": 279.99,
+        "image": "https://ostoresneakers.vteximg.com.br/arquivos/ids/206135-1000-1000/0086813002-0-.jpg?v=637318068470270000"
+    },
+    {
+        "id": 7,
+        "name": "Tênis Nike Air Max",
+        "description": "Tênis Nike com design moderno e conforto extra.",
+        "price": 599.99,
+        "image": "https://cdnv2.moovin.com.br/teffecalcados/imagens/produtos/det/tenis-nike-air-max-sc-cw4555002-a67b4e5ca0484c237280c518c5f8ebf9.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Tênis Adidas Ultraboost",
+        "description": "Tênis premium da Adidas com alta performance.",
+        "price": 649.99,
+        "image": "https://cdn.vnda.com.br/velocita/2023/09/29/14_16_34_185_tenis-f-adidas-ultraboost-light-23-hq6353-1.jpg?v=1696007794"
+    },
+    {
+        "id": 9,
+        "name": "Tênis Fila Racer",
+        "description": "Tênis Fila para treinos e competições de corrida.",
+        "price": 259.99,
+        "image": "https://fila.vtexassets.com/arquivos/ids/901908/F01R00094_5945.jpg?v=638285013300370000"
+    },
+    {
+        "id": 10,
+        "name": "Tênis Reebok Nano X",
+        "description": "Tênis Reebok ideal para treinos intensos.",
+        "price": 399.99,
+        "image": "https://reebok.vtexassets.com/arquivos/ids/156762-800-auto?v=637980065105000000&width=800&height=auto&aspect=true"
+    },
+    {
+        "id": 11,
+        "name": "Tênis Converse All Star",
+        "description": "Tênis icônico da Converse, para qualquer ocasião.",
+        "price": 179.99,
+        "image": "https://cdn.bnws3.com.br/b2online.com.br/image/cache/data/produtos/converse-all-star/unissex/tenis-converse-chuck-taylor-all-star-feminino-preto---branco-9398-23-10-12-1200x1200.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Tênis Asics Gel-Kayano",
+        "description": "Tênis de alta tecnologia para corridas longas.",
+        "price": 499.99,
+        "image": "https://www.asics.com.br/arquivos/ids/473303-1000-1000/null.jpg"
+    }
+]
